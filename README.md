@@ -3,3 +3,4 @@
   - asciify according to English alphabet 
   - deasciify according to Turkish alphabet
   - remove irrelevant characters from text
+- stemmer: Turkish stemmer using snowball
