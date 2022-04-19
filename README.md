@@ -1,1 +1,1 @@
-pythonProject2
+Word and sentence tokenizer using nltk 
