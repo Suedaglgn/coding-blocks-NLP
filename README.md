@@ -1,1 +1,5 @@
-Word and sentence tokenizer using nltk 
+- tokenizer: Word and sentence tokenizer using nltk
+- normalizer: 
+  - asciify according to English alphabet 
+  - deasciify according to Turkish alphabet
+  - remove irrelevant characters from text
