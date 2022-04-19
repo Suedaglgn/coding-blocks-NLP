@@ -4,3 +4,4 @@
   - deasciify according to Turkish alphabet
   - remove irrelevant characters from text
 - stemmer: Turkish stemmer using snowball
+- sampling: basic oversampling with bootstrap method
